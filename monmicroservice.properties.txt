@@ -1,0 +1,8 @@
+spring.application.name=tp3
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2-console
+
+spring.cloud.config.enabled=false
+spring.cloud.config.discovery.enabled=false
+server.port=8080
+mes-configs.limitDeProduits=3
